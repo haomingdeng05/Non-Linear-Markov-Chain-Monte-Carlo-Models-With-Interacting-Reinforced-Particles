@@ -1,6 +1,6 @@
 ### Non-Linear-Markov-Chain-Monte-Carlo-Models-With-Interacting-Reinforced-Particles
 
-#### The project is initiated by Professor Adam Waterbury in University of California, Santa Barbara. The project is assisted by undergraduate students Haoming Deng and Yahanfu.
+#### Overview:The project is initiated by Professor Adam Waterbury in the University of California, Santa Barbara. The project is assisted by undergraduate students Haoming Deng and Yahanfu.
 
 #### Author: Adam Waterbury, Friyal Fu, Haoming Deng
 
